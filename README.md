@@ -50,3 +50,7 @@ Rodar o comando = `php artisan serve`
 Login e senha padrão:
 _login:_ admin
 *senha:*admin
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
